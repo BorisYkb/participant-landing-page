@@ -86,7 +86,7 @@ const handleAccordion = (key: any) => {
 					</ul>
 
 					<div className="allmobilesection">
-						<Link href="//contact" className="vl-btn1">Inscricez_vous</Link>
+						<Link href="/inscription" className="vl-btn1">Inscricez_vous</Link>
 						<div className="single-footer">
 							<h3>Contact</h3>
 							<div className="footer1-contact-info">
